@@ -1,0 +1,16 @@
+table{
+
+    border: red 1px solid;
+}
+th.azul{
+    border: blue 1px solid;
+}
+td.verde{
+    border: green 1px solid;
+}
+th.blau{
+    border: blue 1px solid;
+}
+table.verde{
+    border: green 1px;
+}
